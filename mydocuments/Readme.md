@@ -47,8 +47,22 @@ Backend Description : -
 
     Status Post man all working 
 
-FrontEnd Description
+FrontEnd Description : -
 
+    Front end with React Hooks and Redux
+
+    Inside src folder we have Components Folder , inside components we have all the views and screens for Data.
+
+    Redux - Constants are been declared in contstants folder , Ihis its action/service is defined inside actions folder , and the reduser is define inside reduser folder.
+
+    then the store imports all the reducer and keeps update of states.
+
+    Redux dev tool is enabled in case you wnat to see live data changes.
+    a loding Screen has been Provided untill data loads.
+    
+    Frontend has Read all data as a table, View single data details and finally a modal to update the respective data.
+
+    Create Screen is not prepared , it will be done in the same process as edit screen.
 
 
 
