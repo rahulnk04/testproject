@@ -6,14 +6,12 @@ http://localhost:6000/myproj/api/v1/employee/new
 {
     "empName": "Rahul Nayak",
     "empAge": 26,
-    "empSalary": 40000,
+    "empSalary": 45000,
     "empRole": "Mern Stack Developer",
-    "attrStyle": {
-        "attrId": "any",
-        "attrClass": "any",
-        "attrSize": "any",
-        "attrName": "any"
-    }
+    "attrId": "rahul",
+    "attrClass": "rahul_class",
+    "attrSize": "30",
+    "attrName": "rahul"
 }
 <!-- BODY END -->
 
@@ -31,12 +29,11 @@ http://localhost:6000/myproj/api/v1/employee/6190aa0e8a087d5400689e93
     "empAge": 26,
     "empSalary": 45000,
     "empRole": "Mern Stack Developer",
-    "attrStyle": {
-        "attrId": "rahul",
-        "attrClass": "rahul_class",
-        "attrSize": "30",
-        "attrName": "rahul"
-    }
+    "attrId": "rahul",
+    "attrClass": "rahul_class",
+    "attrSize": "30",
+    "attrName": "rahul"
+
 }
 <!-- Body End -->
 
